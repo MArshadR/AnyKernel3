@@ -4,16 +4,16 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Illusion by Akhil
+kernel.string=QuantumX by MArshadR
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=beryllium
-device.name2=PocoF1
-device.name3=
-device.name4=
+device.name1=umi
+device.name2=Mi105G
+device.name3=cmi
+device.name4=Mi10Pro5G
 device.name5=
 supported.versions=
 supported.patchlevels=
