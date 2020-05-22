@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Illusion by Akhil
+kernel.string=QuantumKernel by MArshadR @ Telegram
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=beryllium
-device.name2=PocoF1
+device.name1=onclite
+device.name2=onc
 device.name3=
 device.name4=
 device.name5=
